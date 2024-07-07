@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/MarkMH/recursive-df-graph-search/blob/a617ab8b10a77e218c81f90c0d9a31d71bf518f5/readme_assets/recursive-dept-first-search.jpg)
 
 This project is part of Harvardx CS50AI. It includes a concise implementation of a depth-first graph search that utilizes the concept of recursion.  The implementation of Tic-Tac-Toe is adopted from pygames.
 
